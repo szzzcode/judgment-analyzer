@@ -12,3 +12,6 @@ __pycache__/
 
 # 其他
 *.log
+
+# 本地发布文档（不上传）
+PUBLISH.md
